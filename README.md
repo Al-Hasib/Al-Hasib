@@ -9,6 +9,7 @@
 * Generative AI
 * MLOPs
 
+## About Myself
 - 📝 I regularly write articles on [https://medium.com/@abdullah.iu.cse](https://medium.com/@abdullah.iu.cse)
 
 - 📫 How to reach me **alhasib.iu.cse@gmail.com**
