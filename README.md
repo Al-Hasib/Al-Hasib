@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-abdullah-al-hasib-874174194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-abdullah-al-hasib-874174194" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@mdabdullahalhasib9081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mdabdullahalhasib9081" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mdabdullahalhasib9081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mdabdullahalhasib9081" height="30" width="40" /></a>
 <a href="https://medium.com/@abdullah.iu.cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdullah.iu.cse" height="30" width="40" /></a>
 </p>
 
