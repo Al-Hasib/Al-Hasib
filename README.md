@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **alhasib.iu.cse@gmail.com**
 
-- 📫 Here is my [Portfolio](https://al-hasib.github.io/portfolio/)
+- 📫 **Here is my [Portfolio](https://al-hasib.github.io/portfolio/)**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
